@@ -1,4 +1,6 @@
 package com.example.mindvalley.model
 
-data class WebResponse<T>(val payload: T)
+import com.google.gson.annotations.SerializedName
+
+data class WebResponse<T>(@SerializedName("data")val payload: T)
 

@@ -14,7 +14,8 @@ import javax.inject.Singleton
         ActivityInjector::class,
         ViewModelInjector::class,
         NetModule::class,
-        WebServiceModule::class
+        WebServiceModule::class,
+        CoreAbstract::class
     ]
 )
 @Singleton

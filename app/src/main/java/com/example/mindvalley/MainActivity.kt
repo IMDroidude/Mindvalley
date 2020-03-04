@@ -12,6 +12,8 @@ class MainActivity : BaseActivity<MainActivityViewModel, ActivityMainBinding>() 
         setContentView(R.layout.activity_main)
 
         mViewModel.fetchCategories()
+        //mViewModel.fetchEpisode()
+        ///mViewModel.fetchChannels()
     }
 
     override val layoutId: Int = R.layout.activity_main
