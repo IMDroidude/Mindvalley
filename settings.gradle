@@ -1,2 +1,3 @@
+include ':commonbase'
 include ':app'
 rootProject.name='Mindvalley'

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="app_theme" translatable="false">app.theme</string>
+    <string name="user_selected_lang" translatable="false">user_selected_lang</string>
+    <string name="static_translations_lang" translatable="false">static_translations_lang</string>
+    <string name="active_call_id" translatable="false">active_call_id</string>
+    <string name="have_active_call" translatable="false">have_active_call</string>
+
+    <string name="avenir" translatable="false">fonts/AvenirNextLTPro-Regular.otf</string>
+    <string name="avenir_bold" translatable="false">fonts/AvenirNextLTPro-Bold.otf</string>
+    <string name="avenir_bold_cn" translatable="false">fonts/AvenirNextLTPro-BoldCn.otf</string>
+    <string name="avenir_medium" translatable="false">fonts/AvenirNextLTPro-Demi.otf</string>
+    <string name="avenir_heavy" translatable="false">fonts/AvenirNextLTPro-Heavy.otf</string>
+    <string name="avenir_light" translatable="false">fonts/AvenirNextLTPro-UltLt.otf</string>
+
+    <string name="sci_chart_lic1" translatable="false"><![CDATA[
+        <LicenseContract>
+        <Customer>CHI</Customer>
+        <OrderId>ABT190201-2942-58149</OrderId>
+        <LicenseCount>1</LicenseCount>
+        <IsTrialLicense>false</IsTrialLicense>
+        <SupportExpires>05/02/2019 00:00:00</SupportExpires>
+        <ProductCode>SC-ANDROID-2D-PRO</ProductCode>
+        <KeyCode>fcad44efda98a21a14fc2e5efbf0f0d2083bedd00378d233e0f045d545cbc658aa9e69f4ea21ba715ff7f97245536a73339addb8c4819cbe78d38bb9a074197174f27ba85d2a7e7c518bc4663bf848140cbb8669dbfd3e57c87ef10e75d9477ef6c3f299c72658c9b22f14d27f30e38febf943e4e30f6a210e77d196380d1ddcd56e9845a29cd17a0b176cc091b53e760bf2b4fe922bae25650e703a7212dee9</KeyCode>
+        </LicenseContract>
+        ]]>
+    </string>
+
+    <string name="sci_chart_lic" translatable="false"><![CDATA[
+        <LicenseContract>
+        <Customer>CHI</Customer>
+        <OrderId>ABTSOFT-1895</OrderId>
+        <LicenseCount>1</LicenseCount>
+        <IsTrialLicense>false</IsTrialLicense>
+        <SupportExpires>07/09/2020 00:00:00</SupportExpires>
+        <ProductCode>SC-IOS-ANDROID-2D-ENTERPRISE-SRC</ProductCode>
+        <KeyCode>3af0be1c2baf69238dc3c0a6c3b789a6c0c0b1ea8c585eb62a7012ef2be569d428a095cc69dc0225782562b628ef82cd0108f56642c30b5c47fca2f8831cfa1512b74de34240eecd2d549ef7a192c4f5c61e3fe616aae1f76c8c610f86d26be1c907debae27f105563c46853a168917a8ef82868de445c2afb5b462f3c7845e72e7712494b0f897b4f2b2597e82357ae75c4f3e46d9d74741412a0497a61e1f2d3bf76564f29ea</KeyCode>
+        </LicenseContract>
+        ]]>
+    </string>
+
+    <string name="sci_chart_lic_new">"b+jmezHqlkFVsmZ+4tNLrsl1lc9vo83X50qzNhEOkAs5xB8O8HG/apqpSX2llK8k8MbHWoKKz6ZkniOknnoO7q0ED63eFKu8I0kEO/NHHgZWpGvi/XQUROILALv9niR7tAO8QmhCKFGTcunEjmY04iCH+f4ZLGvnSSrOgKjfDKnBD2H69puM01MA8CRKNvA5vnrh68h6VaMkzrZ5zLnXfjZp0g9zm6HP1TefwFVBZyoK4MWhDlvH3AANnbQSguX6PaL4mRafNKpufrw5pASO7mV+XB0ooZRlExtC/kKZqqfs1Sxm1+zsjMQq0SJGsyuvuEPMUnsVTyZmhydQFbOpH7PEk80i+ZGaBZt56A7Mf7ShdZvwMqH9tytIUWl0aao3bmq4vPyXPUlsrMzUsgBOWkDv2O2up1GKuPP7M8wiO1CjQFsTbF+QcgrdE/GO15Y/nwDzNtirwULbjaGRqNdbQ5e+c6m7Qc8iv/LrMkWcsxAQKpzaKQz5"</string>
+-->
+</resources>

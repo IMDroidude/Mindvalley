@@ -16,7 +16,7 @@ interface IRepository {
 
         override fun categories(): CategoryPayload {
 
-            //request(apiEndPoints.getCategories(), { it.toMovieDetails() }, CategoryPayload.empty())
+            ///request(apiEndPoints.getCategories(), { it.toMovieDetails() }, CategoryPayload.empty())
             apiEndPoints.getCategories().enqueue(object : Callback<WebResponse<CategoryPayload>>{
                 override fun onResponse(
                     call: Call<WebResponse<CategoryPayload>>,
